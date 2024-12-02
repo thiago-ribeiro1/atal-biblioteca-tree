@@ -39,6 +39,8 @@ Os três tipos de percurso (pré-ordem, em ordem e pós-ordem) são implementado
 ### 4. Recomendação por Autor
 Percorre a árvore para encontrar todos os livros de um autor especificado, retornando uma lista de livros encontrados.
 
+# 📚 Biblioteca Atal - Array | Bubble Sort
+
 Usamos um array dinâmico para guardar os livros na lista, que é basicamente uma estrutura que cresce automaticamente conforme novos livros são adicionados. No início, a lista começa com um tamanho que escolhemos (definido quando a SequentialList é criada), com capacidade inicial de 5 elementos. Quando ela fica cheia, a capacidade dobra, permitindo que a lista armazene mais livros sem limite fixo.
 
 Essa escolha é boa para guardar itens em sequência e facilita operações como busca, adição e remoção de elementos, o que funciona bem para uma lista de livros que não muda o tempo todo. Um array dinâmico como esse é eficiente para acessar e buscar itens na ordem em que foram adicionados, mas pode ser menos eficiente para inserções e remoções frequentes em posições aleatórias da lista.
