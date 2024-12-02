@@ -1,4 +1,4 @@
-# 📚 Biblioteca - Árvore Binária de Busca (BST)
+# 📚 Biblioteca Atal - Árvore Binária de Busca (BST)
 
 Este sistema gerencia livros utilizando uma Árvore Binária de Busca (BST) e um array dinâmico. Ele organiza e realiza operações como inserção, ordenação, busca e recomendação de livros.
 
@@ -38,13 +38,6 @@ Os três tipos de percurso (pré-ordem, em ordem e pós-ordem) são implementado
 
 ### 4. Recomendação por Autor
 Percorre a árvore para encontrar todos os livros de um autor especificado, retornando uma lista de livros encontrados.
-
-
-# 📚 Biblioteca Atal (Análise e Técnicas de Algoritmos)
-
-# Documentação
-
-- **Estrutura de Dados Escolhida**
 
 Usamos um array dinâmico para guardar os livros na lista, que é basicamente uma estrutura que cresce automaticamente conforme novos livros são adicionados. No início, a lista começa com um tamanho que escolhemos (definido quando a SequentialList é criada), com capacidade inicial de 5 elementos. Quando ela fica cheia, a capacidade dobra, permitindo que a lista armazene mais livros sem limite fixo.
 
