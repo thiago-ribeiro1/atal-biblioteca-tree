@@ -67,6 +67,7 @@ A complexidade do Bubble Sort é O(n²) no pior e no caso médio, devido às vá
 
   ## Funcionalidades árvore
 
+- Armazenamento de dados dos livros na árvore
 - Recomendação de livros por autor
 - Percorrer árvore de livros em pré ordem, em ordem e pós ordem
 - Buscar livro sucessor
