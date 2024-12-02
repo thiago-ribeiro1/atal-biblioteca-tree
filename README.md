@@ -1,6 +1,6 @@
 # 📚 Biblioteca - Árvore Binária de Busca (BST)
 
-Este sistema gerencia livros utilizando uma Árvore Binária de Busca (BST) e uma array dinâmico. Ele organiza e realiza operações como inserção, ordenação, busca e recomendação de livros.
+Este sistema gerencia livros utilizando uma Árvore Binária de Busca (BST) e um array dinâmico. Ele organiza e realiza operações como inserção, ordenação, busca e recomendação de livros.
 
 ## Funcionalidades
 
