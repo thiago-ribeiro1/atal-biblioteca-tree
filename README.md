@@ -1,5 +1,7 @@
 # 📚 Biblioteca Atal - Árvore Binária de Busca (BST)
 
+## Aplicação
+
 Este sistema gerencia livros utilizando uma Árvore Binária de Busca (BST) e um array dinâmico. Ele organiza e realiza operações como inserção, ordenação, busca e recomendação de livros.
 
 ## Funcionalidades
@@ -55,11 +57,8 @@ A complexidade do Bubble Sort é O(n²) no pior e no caso médio, devido às vá
 
 <br>
 
-## Aplicação
 
-Sistema desenvolvido em Java (JDK 17) para gerenciar o acervo de uma biblioteca. Este projeto permite o armazenamento, organização, busca e remoção de livros.
-
-## Funcionalidades array
+## Funcionalidades array | bubble sort
 
 - Armazenamento de dados dos livros no sistema
 - Ordenação de livros
