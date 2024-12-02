@@ -17,7 +17,7 @@ Este sistema gerencia livros utilizando uma Árvore Binária de Busca (BST) e um
   Encontra o próximo livro em ordem crescente, localizado como o menor valor na subárvore direita.
 
 - **Buscar Antecessor**:  
-  Encontra o livro imediatamente anterior em ordem crescente, localizado como o maior valor na subárvore esquerda.
+  Encontra o livro anterior em ordem crescente, localizado como o maior valor na subárvore esquerda.
 
 - **Recomendação de Livros por Autor**:  
   Percorre a árvore para listar todos os livros de um autor específico.
