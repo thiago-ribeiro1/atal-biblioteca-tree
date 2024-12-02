@@ -94,17 +94,17 @@ Sistema desenvolvido em Java (JDK 17) para gerenciar o acervo de uma biblioteca.
 
 ### Interface
 
-• Adicionar livros
-• Listar todos os livros
-• Ordenar por título e autor
-• Buscar um livro específico pelo título
-• Remover um livro pelo índice
-• Recomendar livros por autor
-• Exibir livros em pré ordem
-• Exibir livros em ordem 
-• Exibir livros em pós ordem
-• Exibir livro sucessor
-• Exibir livro antecessor
+- Adicionar livros
+- Listar todos os livros
+- Ordenar por título e autor
+- Buscar um livro específico pelo título
+- Remover um livro pelo índice
+- Recomendar livros por autor
+- Exibir livros em pré ordem
+- Exibir livros em ordem 
+- Exibir livros em pós ordem
+- Exibir livro sucessor
+- Exibir livro antecessor
 
 ## ⚙️ Pré-requisitos
 
